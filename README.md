@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tahmid
-- 👀 I’m interested in Nothing
+- 👀 I’m interested in Balls
 - 🌱 I’m currently learning Javascript, C#, Python (Advance)
 - 💞️ I’m looking to collaborate on. Not yet lol
 - 📫 How to reach me. discord id: 1015192535410409532
